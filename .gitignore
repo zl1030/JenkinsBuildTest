@@ -1,0 +1,32 @@
+# Ignore all
+*
+
+# Avoid ignoring directory
+!*/
+
+# Avoid ignoring some suffix
+!*.css
+!*.conf
+!*.gradle
+!*.gif
+!*.html
+!*.ini
+!*.java
+!*.jpg
+!*.js
+!*.jsp
+!*.png
+!*.properties
+!*.sh
+!*.sql
+!*.xml
+
+# Avoid ignoring default file
+!.gitignore
+!LICENSE
+!README.md
+
+# Ignore some directory
+.*/
+gradle/
+target/
