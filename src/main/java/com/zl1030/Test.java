@@ -6,5 +6,6 @@ package com.zl1030;
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello CI!!!!~~~~~~");
+        System.out.println("abccccc");
     }
 }
